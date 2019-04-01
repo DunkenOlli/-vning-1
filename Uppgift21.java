@@ -7,7 +7,7 @@ public class Uppgift21 {
 	String date = Calendar.getInstance().getTime().toString();	
 	System.out.println("Klockan är: " + date.substring(11, 19));
 				
-		//Hej hej, detta är ett test	
+		//Hej hej, detta är ett test, test, test 	
 	}
 
 }
